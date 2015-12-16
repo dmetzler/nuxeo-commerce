@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://project.nuxeo.org/schemas/book"
+    xmlns:tns="http://project.nuxeo.org/schemas/book">
+
+  <element name="pid" type="string" />
+  <element name="buy_price" type="string"/>
+  <element name="sale_price" type="string"/>
+
+</schema>

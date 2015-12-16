@@ -1,0 +1,9 @@
+<component name="org.nuxeo.commerice.core.product.service">
+
+
+  <implementation class="org.nuxeo.commerce.core.ProductComponent" />
+
+  <service>
+    <provide interface="org.nuxeo.commerce.api.service.ProductService" />
+  </service>
+</component>
